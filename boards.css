@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(53, 120, 219, 0.692);
+}
+
+.sample{
+    color: rgb(20, 2, 68);
+    text-align: center;
+    border: 2.1px solid white;
+}
+
+p{
+    letter-spacing: .5px;
+}
+
+ol{
+    letter-spacing: .5px;
+    
+}
+
